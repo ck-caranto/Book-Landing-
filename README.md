@@ -1,4 +1,4 @@
-# Book Landing Page Group Project
+# Book Landing Page Project
 
 ------------
 
